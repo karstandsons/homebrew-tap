@@ -2,8 +2,8 @@
 # fills in the version and checksum and pushes it there.
 #   brew install --cask karstandsons/tap/darkmatter
 cask "darkmatter" do
-  version "0.1.0"
-  sha256 "952c443417ca40fd868aaed494f322e3299a8ebbdac6b1bb6f9f316ad435a5b1"
+  version "0.1.1"
+  sha256 "d106c99de07744c15ebf696a1696319bffdb8ced8db7b976ac0e8f166a3ae7c2"
 
   url "https://github.com/karstandsons/darkmatter/releases/download/v#{version}/darkmatter-#{version}-macos-universal.zip"
   name "Darkmatter"
